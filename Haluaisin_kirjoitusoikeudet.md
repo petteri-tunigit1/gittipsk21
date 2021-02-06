@@ -7,4 +7,5 @@ Tee muokkauspyyntö tähän tiedostoon GitHubissa, niin annan kirjoitusoikeudet 
 Seuraavilla:
 * petteri-tuni (ope)
 * ... lisää tähän GitHub-tunnuksesi jos haluat oikeudet
+* mulle kanssa ... pliis
 
